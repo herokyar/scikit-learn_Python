@@ -3,5 +3,7 @@ machine learning projects with the Python's scikit-learn library (+ pandas, nump
 
 Here see the online version of my IPython notebooks:
 
+SMS filter Python scikit-learn
 http://nbviewer.ipython.org/gist/herokyar/7dcb4f67ad5bc22384e2
+
 
