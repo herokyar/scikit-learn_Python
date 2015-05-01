@@ -18,3 +18,7 @@ http://nbviewer.ipython.org/gist/herokyar/17dd3f97b44aa6a4f72f
 
 Image Quantization with k-means clustering 
 http://nbviewer.ipython.org/gist/herokyar/ff1af26f5ae5912ee8a1
+
+Kaggle Competition Cats vs Dogs (distinguish between cats and dogs)
+semi-supervised learning, KNN and logistic regression
+http://nbviewer.ipython.org/gist/herokyar/a9a3bb34ae280694d3dd
