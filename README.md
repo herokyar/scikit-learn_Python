@@ -15,3 +15,6 @@ http://nbviewer.ipython.org/gist/herokyar/929c92e3cae8c9b0332e
 
 MNIST Handwritten Digit Recognition with SVM
 http://nbviewer.ipython.org/gist/herokyar/17dd3f97b44aa6a4f72f
+
+Image Quantization with k-means clustering 
+http://nbviewer.ipython.org/gist/herokyar/ff1af26f5ae5912ee8a1
