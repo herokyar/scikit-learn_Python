@@ -25,3 +25,6 @@ http://nbviewer.ipython.org/gist/herokyar/a9a3bb34ae280694d3dd
 
 #####PCA analysis with 2 components on iris dataset
 http://nbviewer.ipython.org/gist/herokyar/05a3b3f8fd09303e4446
+
+#####Face recognition on the database -> The Database of Faces using PCA and Logistic Regression
+http://nbviewer.ipython.org/gist/herokyar/2b59d87d41b9aee4fe7c
