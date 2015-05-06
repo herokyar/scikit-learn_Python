@@ -28,3 +28,6 @@ http://nbviewer.ipython.org/gist/herokyar/05a3b3f8fd09303e4446
 
 #####Face recognition on the database -> The Database of Faces using PCA and Logistic Regression
 http://nbviewer.ipython.org/gist/herokyar/2b59d87d41b9aee4fe7c
+
+#####Python interaction with SQL and noSQL  databases for data analysis
+http://nbviewer.ipython.org/gist/herokyar/c20c8236ba5da706e9fb
