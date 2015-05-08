@@ -31,3 +31,6 @@ http://nbviewer.ipython.org/gist/herokyar/2b59d87d41b9aee4fe7c
 
 #####Python interaction with SQL and noSQL  databases for data analysis
 http://nbviewer.ipython.org/gist/herokyar/c20c8236ba5da706e9fb
+
+#####Kaggle competition Titanic predict the survivors using decision trees and random forests
+http://nbviewer.ipython.org/gist/herokyar/a5097ce68c03e787d210
