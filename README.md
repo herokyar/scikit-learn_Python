@@ -3,6 +3,10 @@ machine learning projects with the Python's scikit-learn library (+ pandas, nump
 
 Here see the online version of my IPython notebooks:
 
+
+#####HADOOP MapReduce Job -> Bigram Analysis of the famous novel Pride and Prejudice, by Jane Austen
+http://nbviewer.ipython.org/gist/herokyar/ebf8c8b428488656db25
+
 #####SMS filter  with Logistic Regression (binary classification)
 http://nbviewer.ipython.org/gist/herokyar/7dcb4f67ad5bc22384e2
 
