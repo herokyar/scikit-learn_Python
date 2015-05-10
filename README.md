@@ -3,6 +3,8 @@ machine learning projects with the Python's scikit-learn library (+ pandas, nump
 
 Here see the online version of my IPython notebooks:
 
+#####HADOOP MapReduce Job ->  Twitter Trend Topic Analysis Top 10
+http://nbviewer.ipython.org/gist/herokyar/d8ba40e4d90754ebc0bf
 
 #####HADOOP MapReduce Job -> Bigram Analysis of the famous novel Pride and Prejudice, by Jane Austen
 http://nbviewer.ipython.org/gist/herokyar/ebf8c8b428488656db25
