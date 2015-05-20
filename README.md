@@ -40,3 +40,8 @@ http://nbviewer.ipython.org/gist/herokyar/c20c8236ba5da706e9fb
 
 #####Kaggle competition Titanic predict the survivors using decision trees and random forests
 http://nbviewer.ipython.org/gist/herokyar/a5097ce68c03e787d210
+
+#####exploratory data analysis on 2012 Federal Election Commission Database
+http://nbviewer.ipython.org/gist/herokyar/67ea7a223e3968806bb6
+
+
